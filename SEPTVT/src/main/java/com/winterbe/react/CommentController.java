@@ -8,7 +8,7 @@ import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RestController;
 
 /**
- * @author Benjamin Winterberg
+ * @author Benjamin Winterberg one
  */
 @RestController
 @RequestMapping("/comments.json")
